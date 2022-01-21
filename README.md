@@ -27,6 +27,7 @@
   <img align="center" alt="Dionney-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Dionney-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
+  ##
   ![Snake animation](https://github.com/dpsaraiva/dpsaraiva/blob/output/github-contribution-grid-snake.svg)
 </div>
 
