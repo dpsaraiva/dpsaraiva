@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Dionney👋  E se você chegou aqui eu posso contribuir contigo 🤜🤛
 
 - 🌱 Atualmente eu estou aprendendo: Java, HTML, CSS, Inglês e mais um bocado de coisas 😁😁😁
-- 📫 Como você pode me achar: dsaraiva@terra.com.br
+- 📫 Como você pode me achar: dpsaraiva@outlook.com
 - 😄 Pronomes: Ele/Dele
 
 ## Algumas das minhas estatísticas 📈:
